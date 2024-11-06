@@ -1,0 +1,3 @@
+.terraform*
+terraform.*
+digital-ocean-token
